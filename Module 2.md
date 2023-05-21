@@ -50,4 +50,4 @@
 ## Let's Get Started!
 🚀 Now that you have a solid foundation in Python basics, it's time to explore the core concepts. In this module, we will learn about variables and how to store and manipulate data. We will also delve into different data types and their characteristics. Additionally, we will cover operators and control flow statements to control the flow of our program's execution. Finally, we will introduce functions and error handling to write more organized and robust code.
 
-[Continue to Module 3: Advanced Topics](link-to-module-3)
+[Continue to Module 3: Advanced Topics](link-to-3)
