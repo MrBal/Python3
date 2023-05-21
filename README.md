@@ -54,4 +54,4 @@ Each module of this tutorial series will cover a specific topic in Python 3 prog
 ## Let's Get Started! 🚀
 Now that you have a clear overview of what this tutorial series offers, it's time to dive into Python 3 programming. In the next module, we will guide you through the process of setting up Python 3 and getting familiar with different development environments. Let's embark on this exciting journey together!
 
-[Continue to Module 1](https://github.com/MrBal/Python3/blob/c787fc56e5cd1ad1391d8306ed099e95660c722f/Module%201)
+[Continue to Module 1](https://github.com/MrBal/Python3/blob/master/Module%201)
