@@ -46,7 +46,7 @@ This tutorial series is designed for anyone interested in learning Python 3 prog
 - Hobbyists and enthusiasts interested in Python
 
 ## Prerequisites 📋
-No prior programming experience is required to start this course. However, a basic understanding of computer concepts and a passion for learning will be beneficial.
+No prior programming experience is required to start this course. However, a basic understanding of computer concepts and a passion for learning will be beneficial..
 
 ## How to Use This Tutorial Series 📖
 Each module of this tutorial series will cover a specific topic in Python 3 programming. You will find detailed explanations, code examples, and practical exercises to reinforce your learning. Feel free to work at your own pace and revisit previous modules whenever necessary.
